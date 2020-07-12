@@ -1,0 +1,17 @@
+0.0 |- It may feel odd to be thinking ahead to the next potential pandemic when the world is far from finished with the current one.
+1.0 |- But reports of a newly identified swine influenza virus that shows hints of being able to spread among humans have raised that specter — although public health officials say it’s not an imminent threat.
+1.0 |- That virus, identified in pigs in some parts of China, has characteristics similar to a strain that caused the 2009 H1N1 swine flu pandemic (SN: 12/18/09), a new study finds.
+1.0 |- But just identifying such a flu virus circulating in pigs does not mean it poses an immediate threat to people.
+0.0 |- Rather it signals to researchers that they should monitor sick people for similar viruses.
+0.0 |- “It’s not an immediate threat where you’re seeing infections,” Anthony Fauci, director of the U.S. National Institute of Allergy and Infectious Diseases in Bethesda, Md., said in a U.S. Senate hearing on June 30.
+1.0 |- “But it’s something we need to keep our eye on, just the way we did in 2009 with the emergence of the swine flu.”
+0.0 |- Influenza viruses bind to a protein called sialic acid to break into cells.
+0.0 |- Birds and people have different types of this protein in their upper airway, but pigs have both.
+1.0 |- That makes pigs not only susceptible to swine-specific flu strains but also to flu viruses from birds and humans.
+0.0 |- As a result, the animals often become influenza mixing pots.
+0.0 |- Once in pigs, bird, swine and human flu viruses can exchange genetic material — called reassortment — giving rise to new strains (SN: 2/12/10).
+1.0 |- If some of those new strains can infect people and make them sick, the virus might go on to cause larger outbreaks.
+0.0 |- Like the 2009 H1N1 virus, a newly identified pig virus, called G4 EA H1N1, or G4 for short, can attach to the type of sialic acid that lines a person’s respiratory tract, and it can also replicate in human cells grown in a dish, researchers report June 29 in the Proceedings of the National Academy of Sciences.
+1.0 |- Infected ferrets — an animal commonly used to study influenza because ferrets exhibit similar symptoms as people — can also get sick and pass the virus to other ferrets.
+1.0 |- The findings hint that the virus has the potential to cause disease and be transmitted among people.
+0.0 |- “It really points out the fact that we’ve got to keep watching influenza viruses,” says Marie Culhane, a swine veterinarian who studies influenza at the University of Minnesota in St. Paul and was not involved in the study.
