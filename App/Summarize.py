@@ -1,21 +1,10 @@
 """ Using Word Embedding to Attempt to understand the topic of text """
-import os
-import sys
-from functools import reduce
-
-import spacy
 from collections import defaultdict
-import numpy as np
+from functools import reduce
 from App.utilities import format_sent
 
-
-def resource_path(relative_path):
-    """ Get absolute path to resource, works for dev and for PyInstaller """
-    base_path = getattr(sys, '_MEIPASS', os.path.dirname(os.path.abspath("__file__")))
-    return os.path.join(base_path, relative_path)
-
-
-spacy.util.set_data_path = resource_path('C:/anaconda3/Lib/site-packages/spacy/data')
+import numpy as np
+import spacy
 
 nlp = spacy.load('en_core_web_lg')
 
@@ -23,7 +12,7 @@ nlp = spacy.load('en_core_web_lg')
 class Semantic_Extractor:
     def __init__(self, text):
         self.corpus = []
-        self.doc = nlp(format_sent(text))
+        self.doc = nlp(text)
         self.sents = [format_sent(sent.text) for sent in self.doc.sents]
         self.filter = []
 
